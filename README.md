@@ -1,7 +1,7 @@
 
 ![top-programing-languages](https://user-images.githubusercontent.com/38869235/164253697-0e8b44dc-3ab0-471e-89df-f7147bcef59e.jpeg)
 
- #Hi,I’m @AvinandanBose
+ #Hi I am Avinandan Bose
 
 - 👀 I’m interested in Programming , Machine Learning, Data Analyst and AI
 - 🌱 I’m currently learning Machine Learning and AI

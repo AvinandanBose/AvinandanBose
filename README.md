@@ -1,5 +1,5 @@
 
-![top-programing-languages](https://user-images.githubusercontent.com/38869235/164253697-0e8b44dc-3ab0-471e-89df-f7147bcef59e.jpeg)
+![164253697-0e8b44dc-3ab0-471e-89df-f7147bcef59e](https://user-images.githubusercontent.com/38869235/165821072-3037dc49-befa-4c20-b9db-8f6af23c5024.jpeg)
 
  <h1>Hi 👋 I am Avinandan Bose</h1>
  

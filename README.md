@@ -9,6 +9,7 @@
 - 📫 How to reach me : **Linkedin** → <a href = "https://www.linkedin.com/in/avinandan-bose-07592110a/"> AvinandanBose Linkedin </a> ; **Facebook** → <a href = "https://www.facebook.com/avinandan.bose.963/"> AvinandanBose Facebook </a> ; 
  **Twitter** → <a href = "https://twitter.com/Avinandan_Bose_"> AvinandanBose Twitter </a>
  
+ <h3>Skill Score : <a href = "https://global.findy-code.io/?h=QUHlaaOR8IWMy&fr=skill_share">Skill Score</a></h3>
  
  ![Screenshot (674)](https://user-images.githubusercontent.com/38869235/169017478-3cc47efa-affd-429b-84e4-a510ba1cf8dd.png)
 

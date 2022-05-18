@@ -10,6 +10,11 @@
  **Twitter** → <a href = "https://twitter.com/Avinandan_Bose_"> AvinandanBose Twitter </a>
  
  
+ ![Screenshot (674)](https://user-images.githubusercontent.com/38869235/169017478-3cc47efa-affd-429b-84e4-a510ba1cf8dd.png)
+
+ 
+ 
+ 
 
 <!---
 AvinandanBose/AvinandanBose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -34,7 +34,7 @@
  
  - Dart <img src="https://user-images.githubusercontent.com/26507463/53453892-49908900-3a04-11e9-9dce-77ed3d694326.png" width="50" height="50">
  
- - Flutter <img src="https://symbols.getvecta.com/stencil_80/74_flutter-icon.9831b0dbe0.svg" width="50" height="50">
+ - Flutter <img src="https://www.esearchlogix.com/images/flutter.jpg" width="50" height="50">
  
  - Linux <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" width="50" height="50">
  

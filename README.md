@@ -59,6 +59,7 @@
 
  
  ![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose&theme=highcontrast&show_icons=true)
+ [![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose)](https://github.com/AvinandanBose/github-readme-stats)
 
 <!---
 AvinandanBose/AvinandanBose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

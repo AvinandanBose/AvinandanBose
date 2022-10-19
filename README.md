@@ -58,7 +58,7 @@
 ![Screenshot (1503)](https://user-images.githubusercontent.com/38869235/191126804-531df6b8-6af0-4aaf-af3b-241610a77919.png)
 
  
- 
+ ![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose&theme=dark&show_icons=true)
 
 <!---
 AvinandanBose/AvinandanBose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

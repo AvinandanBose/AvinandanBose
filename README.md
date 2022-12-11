@@ -57,9 +57,19 @@
  
 ![Screenshot (1503)](https://user-images.githubusercontent.com/38869235/191126804-531df6b8-6af0-4aaf-af3b-241610a77919.png)
 
+ <h2>GitHub Stats 📈 :</h2>
  
  ![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose&theme=highcontrast&show_icons=true)
- [![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose)](https://github.com/AvinandanBose/github-readme-stats)
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=AvinandanBose&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+ 
+ <h2>GitHub Thropies 🏆 :</h2>
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=AvinandanBose)](https://github.com/AvinandanBose/github-profile-trophy)
+ 
+ <h2>Activity Graph 📊 :</h2>
+ 
+ [![AvinandanBose's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AvinandanBose&theme=react-dark)](https://github.com/AvinandanBose/github-readme-activity-graph)
 
 <!---
 AvinandanBose/AvinandanBose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

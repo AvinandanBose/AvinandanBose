@@ -57,20 +57,28 @@
  
 ![Screenshot (1503)](https://user-images.githubusercontent.com/38869235/191126804-531df6b8-6af0-4aaf-af3b-241610a77919.png)
 
- <h2>GitHub Stats 📈 :</h2>
+ <h2>📈 GitHub Stats 📈 :</h2>
  
  ![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose&theme=highcontrast&show_icons=true)
  
+ ![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose&theme=default&show_icons=true)
+ 
+ <h2>🔥 GitHub Streak Stats 🔥 :</h2>
+ 
  [![GitHub Streak](https://streak-stats.demolab.com?user=AvinandanBose&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
  
- <h2>GitHub Thropies 🏆 :</h2>
+ <h2> 🏆 GitHub Thropies 🏆 :</h2>
  
  [![trophy](https://github-profile-trophy.vercel.app/?username=AvinandanBose)](https://github.com/AvinandanBose/github-profile-trophy)
  
- <h2>Activity Graph 📊 :</h2>
+ <h2>📊 Activity Graph 📊 :</h2>
  
  [![AvinandanBose's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AvinandanBose&theme=react-dark)](https://github.com/AvinandanBose/github-readme-activity-graph)
-
+ 
+ <h2>🖥️ Language Card 🖥️ :</h2>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinandanBose&layout=Demo)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinandanBose&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <!---
 AvinandanBose/AvinandanBose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

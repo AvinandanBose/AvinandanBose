@@ -59,10 +59,8 @@
 
  <h2>📈 GitHub Stats 📈 :</h2>
  
- ![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose&theme=highcontrast&show_icons=true)
- 
- ![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose&theme=default&show_icons=true)
- 
+ ![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose)
+  
  <h2>🔥 GitHub Streak Stats 🔥 :</h2>
  
  [![GitHub Streak](https://streak-stats.demolab.com?user=AvinandanBose&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)

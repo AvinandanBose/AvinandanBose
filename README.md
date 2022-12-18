@@ -73,7 +73,7 @@
  
  <h2>📊 Activity Graph 📊 :</h2>
  
- ![AvinandanBose's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AvinandanBose&theme=react-dark)
+ ![AvinandanBose's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AvinandanBose)
  
  <h2>🖥️ Language Card 🖥️ :</h2>
  

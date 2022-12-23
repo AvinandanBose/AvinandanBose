@@ -54,8 +54,8 @@
  <h3>Skill Score : <a href = "https://global.findy-code.io/?h=QUHlaaOR8IWMy&fr=skill_share">Skill Score</a></h3>
  
 
- 
-![Screenshot (1503)](https://user-images.githubusercontent.com/38869235/191126804-531df6b8-6af0-4aaf-af3b-241610a77919.png)
+![Screenshot (198)](https://user-images.githubusercontent.com/38869235/209307779-f27b25a7-63bf-491d-b8d0-bb363a1b719c.png)
+
 
  <h2>📈 GitHub Stats 📈 :</h2>
  

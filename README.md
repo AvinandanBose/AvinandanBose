@@ -59,9 +59,9 @@
 
  <h2>📈 GitHub Stats 📈 :</h2>
  
- ![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose)
+ ![Avinandan Bose's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AvinandanBose)
  
- ![Avinandan Bose's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvinandanBose&theme=dark&show_icons=true)
+ ![Avinandan Bose's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AvinandanBose&theme=dark&show_icons=true)
   
  <h2>🔥 GitHub Streak Stats 🔥 :</h2>
  

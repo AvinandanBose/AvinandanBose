@@ -68,8 +68,9 @@
  [![GitHub Streak](https://streak-stats.demolab.com?user=AvinandanBose&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
  
  <h2> 🏆 GitHub Thropies 🏆 :</h2>
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=AvinandanBose&title=Followers&title=Commits&title=MultiLanguage&title=Stars&title=Repositories&title=Issues&title=PullRequest)](https://github.com/AvinandanBose/github-profile-trophy)
  
- [![trophy](https://github-profile-trophy.vercel.app/?username=AvinandanBose)](https://github.com/AvinandanBose/github-profile-trophy)
  
  <h2>📊 Activity Graph 📊 :</h2>
  

@@ -16,6 +16,141 @@
 - 📫 How to reach me : **Linkedin** → <a href = "https://www.linkedin.com/in/avinandan-bose-07592110a/"> AvinandanBose Linkedin </a> ; **Facebook** → <a href = "https://www.facebook.com/avinandan.bose.963/"> AvinandanBose Facebook </a> ; 
  **Twitter** → <a href = "https://twitter.com/Avinandan_Bose_"> AvinandanBose Twitter </a>
 
+ <h2></h2>
+
+<h2>💻 Technologies 💻</h2>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" alt="icon" width="40" height="40" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" alt="icon" width="40" height="40" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" alt="icon" width="40" height="40" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="40" height="40" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="icon" width="40" height="40" />
+      <br>Node
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="40" height="40" />
+      <br>Next
+    </td>    
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="40" height="40" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="40" height="40" />
+      <br>Laravel
+    </td>        
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" alt="icon" width="40" height="40" />
+      <br>Django
+    </td>        
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="40" height="40" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>    
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" alt="icon" width="40" height="40" />
+      <br>Flutter
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="40" height="40" />
+      <br>Kotlin
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=swift" alt="icon" width="40" height="40" />
+      <br>Swift
+    </td>    
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=spring" alt="icon" width="40" height="40" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="40" height="40" />
+      <br>MySQL
+    </td>    
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="40" height="40" />
+      <br>MongoDB
+    </td>    
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40" />
+      <br>Firebase
+    </td> 
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="40" height="40" />
+      <br>postgreSQL
+    </td>  
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=idea" alt="icon" width="40" height="40" />
+      <br>IntelliJ
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="40" height="40" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>    
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="40" height="40" />
+      <br>vs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="40" height="40" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="40" height="40" />
+      <br>Kubernetes
+    </td> 
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" alt="icon" width="40" height="40" />
+      <br>Dart
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=c" alt="icon" width="40" height="40" />
+      <br>C
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="40" height="40" />
+      <br>CPP
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" alt="icon" width="40" height="40" />
+      <br>linux
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" alt="icon" width="40" height="40" />
+      <br>CSS
+    </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="40" height="40" />
+      <br>JQUERY
+    </td>
+   <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=eclipse" alt="icon" width="40" height="40" />
+      <br>ECLIPSE
+    </td>
+  </tr>
+ 
+</table>
+
+ <h2></h2>
 
   ## 🛠️ My favorite tools
 

@@ -3,7 +3,7 @@
 
  <h1>Hi 👋 I am Avinandan Bose</h1>
  
-- 👀 <h1><i><strong>"I’m  currently working as a Programmer(Developer), and experiencing Machine Learning, Data Analyst and AI through my programming skills".</h1></i></strong>
+- 👀 <h1><i><strong>"I’m  a Programmer(Developer), and have experience in Machine Learning, Building Mobile Apps through Flutter , Building Websites , Data Analyst and AI. ".</h1></i></strong>
 
 - 📚<b><strong>My educational background is from Computer Science</strong> </b> .
 

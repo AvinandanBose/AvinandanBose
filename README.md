@@ -324,7 +324,7 @@ You can click the Preview link to take a look at your changes.
 <p align='left'>
  
   <a href="https://www.linkedin.com/in/avinandan-bose-07592110a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
   </a>
 
   <a href="https://www.facebook.com/avinandan.bose.963">
@@ -332,6 +332,13 @@ You can click the Preview link to take a look at your changes.
   </a>
 
   <a href="https://www.threads.com/@avinandanbose6475">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpcbNEjxPww35HJVsy_2fqjHWmXU83FrTrg&s" alt="Threads">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpcbNEjxPww35HJVsy_2fqjHWmXU83FrTrg&s" alt="Threads" width="100" height="100">
+
+    
+  </a>
+  <a href="https://x.com/Avinandan_Bose_">
+    <img src="https://github.com/user-attachments/assets/be2f2e87-a59e-4105-8353-3631720e1022" alt="X.com" <img width="100" height="100"  />
+
+ 
   </a>
 </p>
